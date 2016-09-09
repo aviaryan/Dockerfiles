@@ -5,11 +5,13 @@ My Dockerfiles
 
 ### [ffmpeg](ffmpeg)
 
-A small ffmpeg Docker image. Contains only `ffmpeg`, not `ffserver`, `ffprobe` and other executables. 
+[![](https://images.microbadger.com/badges/image/aviaryan/ffmpeg.svg)](https://microbadger.com/images/aviaryan/ffmpeg "Get your own image badge on microbadger.com")
 
 ```bash
 docker pull aviaryan/ffmpeg
 ```
+
+A small ffmpeg Docker image. Contains only `ffmpeg`, not `ffserver`, `ffprobe` and other executables. 
 
 <table>
     <tr>
